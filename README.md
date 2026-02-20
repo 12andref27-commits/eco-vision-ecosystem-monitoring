@@ -85,9 +85,13 @@
 ## Структура репозитория
 
 eco_vision.ipynb # основной ноутбук
+
 detections.csv # таблица детекций
+
 annotated_images.zip # изображения с bounding boxes
+
 requirements.txt # зависимости
+
 README.md # описание проекта
 
 ---
